@@ -7,6 +7,8 @@ function calculateArea(width, height) {
     const area = width * height;
     return area;
 }
-calculateArea(10, 5);
 
-console.log(calculateArea(10, 5));
+/*Utskrift*/
+console.log("Arean är ", calculateArea(10, 5));
+console.log("Arean är ", calculateArea(17, 5));
+console.log("Arean är ", calculateArea(7, 5));
