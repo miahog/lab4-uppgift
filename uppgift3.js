@@ -1,4 +1,4 @@
-/*Lösning till uppgift 3. Av Mia Höglund, 2026*/
+/*Lösning till uppgift 3 - Villkor. Av Mia Höglund, 2026*/
 
 "use strict";
 const age = 67;

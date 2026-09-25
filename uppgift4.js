@@ -1,4 +1,4 @@
-/*Lösning till uppgift 4. Av Mia Höglund, 2026*/
+/*Lösning till uppgift 4 - Loopar och villkor. Av Mia Höglund, 2026*/
 
 "use strict";
 

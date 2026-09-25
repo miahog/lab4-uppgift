@@ -1,4 +1,4 @@
-/*Lösning till uppgift 1. Av Mia Höglund, 2026*/
+/*Lösning till uppgift 1 - Variabler och datatyper. Av Mia Höglund, 2026*/
 "use strict"; //hjälper till att upptäcka programeringsfel tidigare
 
 let firstName = "Mia"; //let är variabel 

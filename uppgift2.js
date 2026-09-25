@@ -1,4 +1,4 @@
-/*Lösning till uppgift 2. Av Mia Höglund, 2026*/
+/*Lösning till uppgift 2 - Operatorer och beräkningar. Av Mia Höglund, 2026*/
 
 "use strict";
 
