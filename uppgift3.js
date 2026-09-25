@@ -1,4 +1,4 @@
-/*Lösning till uppgift 1. Av Mia Höglund, 2026*/
+/*Lösning till uppgift 3. Av Mia Höglund, 2026*/
 
 "use strict";
 const age = 67;
@@ -10,5 +10,5 @@ else if (age < 65) {
 }
 
 else {
-    console.log("Pensionär");
+    console.log("Pensionär"); //behövs ej >65 då räknas ej åldern 65 in
 }
