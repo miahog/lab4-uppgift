@@ -10,7 +10,7 @@ const moms = totalPrice * 0.25; //25%=0.25
 const totalPriceMoms = totalPrice + moms;
 
 /*Utskrift*/
-console.log("Pris: " + price);
+console.log("Pris: " + price + " kr");
 console.log("Antal: " + amount);
-console.log("Totalt: " + totalPrice);
-console.log("Totalt inklusive moms: " + totalPriceMoms);
+console.log("Totalt: " + totalPrice + " kr");
+console.log("Totalt inklusive moms: " + totalPriceMoms + " kr");
