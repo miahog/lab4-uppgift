@@ -6,11 +6,7 @@ let lastName = "Höglund"; //lastName variabelns namn enl camelCase
 let age = 31; //number
 let isStudent = true; //boolean
 
-console.log(firstName); //kontroll att variabler fungerar
-console.log(lastName);
-console.log(age);
-console.log(isStudent);
-
+/*Utskrift*/
 console.log(firstName + " " + lastName); //använt + istället för template literal
 console.log("Ålder: " + age);
 console.log("Student: " + isStudent);
