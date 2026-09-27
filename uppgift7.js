@@ -14,4 +14,5 @@ function calculateSum(numbers) {
     return sum; //loopen räknar ut salen
 }
 
+/*Utskrift*/
 console.log("Summan är " + calculateSum(numbers));
