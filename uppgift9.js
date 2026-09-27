@@ -15,7 +15,7 @@ const people = [
     },
     {
         name: "Lovisa",
-        age: "40",
+        age: "15",
         city: "Stockholm",
     },
 
